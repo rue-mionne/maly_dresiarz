@@ -1,0 +1,1 @@
+The project structure is a remnant of planned online gamplay. CoreHandler class was meant to be on host side only and would communicate with PlayerClients: in online mode they would become message sender/receivers. Unfortunately I had to abandn my plans because of poor health and another projects creeping in.
